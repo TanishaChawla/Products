@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "title": "Milk",
+            "price": "$2",
+            "img": "https://images.app.goo.gl/msgjtTy49FQNHYij7"
+        },
+        {
+            "title": "Chips",
+            "price": "$5",
+            "img": "https://images.app.goo.gl/SQ4FDhSTkD3Jgoij7"
+        },
+        {
+            "title": "Bread",
+            "price": "$6",
+            "img": "https://images.app.goo.gl/vXNQc2AJemv8fEmf7"
+        },
+        {
+            "title": "Milk2",
+            "price": "$3",
+            "img": "https://images.app.goo.gl/msgjtTy49FQNHYij7"
+        },
+        {
+            "title": "Chips",
+            "price": "$4",
+            "img": "https://images.app.goo.gl/SQ4FDhSTkD3Jgoij7"
+        }
+    ]
+}
